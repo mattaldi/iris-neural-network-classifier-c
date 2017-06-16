@@ -1,4 +1,4 @@
-# neural-network-in-c
+# artificial-neural-network-in-c
 
 
 original code:
