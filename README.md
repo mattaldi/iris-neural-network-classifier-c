@@ -1,4 +1,4 @@
-# Neural Network for Iris Classification
+# Neural Network Classifier for Iris Dataset in C
 
 This project implements a simple neural network in C for the classification of the Iris dataset. The neural network consists of an input layer, a hidden layer, and an output layer.
 
